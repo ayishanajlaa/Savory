@@ -1,4 +1,4 @@
-# Food Delivery Website
+# Savory
 
 This is a food delivery website built with React, showcasing various food categories and menu items.
 
