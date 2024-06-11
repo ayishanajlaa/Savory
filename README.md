@@ -16,7 +16,7 @@ This is a food delivery website built with React, showcasing various food catego
    ```bash
    git clone https://github.com/ayishanajlaa/Savory.git
 
-   cd food-delivery-website
+   cd Savory
    npm install
    npm start
    ```
